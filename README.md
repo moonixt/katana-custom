@@ -1,17 +1,11 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/8293321/196779266-421c79d4-643a-4f73-9b54-3da379bbac09.png" alt="katana" width="200px">
+<img width="150" height="150" alt="image (3)" src="https://github.com/user-attachments/assets/37e48b00-52d3-40c9-ab2c-2314090b7422" />
   <br>
 </h1>
 
-<h4 align="center">A next-generation crawling and spidering framework</h4>
+<h4 align="center">A Katana Fork in order to make web mapping</h4>
 
-<p align="center">
-<a href="https://goreportcard.com/report/github.com/projectdiscovery/katana"><img src="https://goreportcard.com/badge/github.com/projectdiscovery/katana"></a>
-<a href="https://github.com/projectdiscovery/katana/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-<a href="https://github.com/projectdiscovery/katana/releases"><img src="https://img.shields.io/github/release/projectdiscovery/katana"></a>
-<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
-<a href="https://discord.gg/projectdiscovery"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
-</p>
+
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -26,7 +20,7 @@
 
 # Features
 
-![image](https://user-images.githubusercontent.com/8293321/199371558-daba03b6-bf9c-4883-8506-76497c6c3a44.png)
+<img width="880" height="571" alt="image" src="https://github.com/user-attachments/assets/225f77c6-7a60-4a59-a88b-a9136fc70b1e" />
 
  - Fast And fully configurable web crawling
  - **Standard** and **Headless** mode
@@ -36,6 +30,8 @@
  - **Customizable output** - Preconfigured fields
  - INPUT - **STDIN**, **URL** and **LIST**
  - OUTPUT - **STDOUT**, **FILE** and **JSON**
+
+
 
 
 ## Installation
